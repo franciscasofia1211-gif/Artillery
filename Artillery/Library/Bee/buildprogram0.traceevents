@@ -2,6 +2,7 @@
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
 { "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
 <<<<<<< HEAD
+<<<<<<< HEAD
 { "pid": 35942, "tid": 1, "ts": 1789135026393980, "dur": 414615, "ph": "X", "name": "BuildProgram", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1789135026394682, "dur": 52447, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1789135026706040, "dur": 2900, "ph": "X", "name": "OutputData.Write", "args": {} },
@@ -23,3 +24,12 @@
 { "pid": 35942, "tid": 1, "ts": 1789672186096060, "dur": 843, "ph": "X", "name": "", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1789672186095789, "dur": 1269, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 >>>>>>> 1f32d2d6 (Practica Modulo 18)
+=======
+{ "pid": 35942, "tid": 1, "ts": 1789675462903972, "dur": 440742, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789675462904638, "dur": 53142, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789675463236209, "dur": 3449, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789675463239660, "dur": 105035, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789675463241083, "dur": 59282, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789675463350254, "dur": 903, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789675463349938, "dur": 1406, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+>>>>>>> 5ee93240 (no se)
