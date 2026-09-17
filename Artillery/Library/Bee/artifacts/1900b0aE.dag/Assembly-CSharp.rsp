@@ -460,6 +460,8 @@
 "Assets/_Scripts/AdministradorJuego.cs"
 "Assets/_Scripts/Bola.cs"
 "Assets/_Scripts/Canon.cs"
+"Assets/_Scripts/Rastro.cs"
+"Assets/_Scripts/SeguirCamara.cs"
 -langversion:9.0
 /deterministic
 /optimize+
