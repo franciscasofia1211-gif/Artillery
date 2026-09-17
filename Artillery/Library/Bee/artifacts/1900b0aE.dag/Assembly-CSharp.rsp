@@ -457,9 +457,18 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/TutorialInfo/Scripts/Readme.cs"
+"Assets/_Input/CanonControls.cs"
 "Assets/_Scripts/AdministradorJuego.cs"
 "Assets/_Scripts/Bola.cs"
 "Assets/_Scripts/Canon.cs"
+<<<<<<< HEAD
+=======
+"Assets/_Scripts/Objetivo.cs"
+"Assets/_Scripts/Obstaculo.cs"
+"Assets/_Scripts/Rastro.cs"
+"Assets/_Scripts/SeguirCamara.cs"
+"Assets/_Scripts/SiguienteNivel.cs"
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
 -langversion:9.0
 /deterministic
 /optimize+

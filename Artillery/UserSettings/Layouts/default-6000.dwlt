@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 247
     height: 436
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 24}
   m_Panes:
   - {fileID: 24}
@@ -74,7 +74,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< HEAD
   controlID: 226
+=======
+  controlID: 85
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -153,7 +157,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 168}
   m_MaxSize: {x: 16192, y: 24288}
   vertical: 1
+<<<<<<< HEAD
   controlID: 225
+=======
+  controlID: 84
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -793,7 +801,11 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/_Prefabs
+=======
+    - Assets/Scenes
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -803,21 +815,37 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
   - Assets/_Prefabs
+=======
+  - Assets/Scenes
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\franc\OneDrive\Desktop\Artillery\Artillery
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 87}
     m_SelectedIDs:
+<<<<<<< HEAD
     - m_Data: 46444
     m_LastClickedID:
       m_Data: 46444
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 46308
+=======
+    - m_Data: 46896
+    m_LastClickedID:
+      m_Data: 46896
+    m_ExpandedIDs:
+    - m_Data: 0
+    - m_Data: 46752
+    - m_Data: 46754
+    - m_Data: 46756
+    - m_Data: 46878
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -851,7 +879,13 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
+<<<<<<< HEAD
     - m_Data: 46308
+=======
+    - m_Data: 46752
+    - m_Data: 46754
+    - m_Data: 46756
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -878,9 +912,14 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
+<<<<<<< HEAD
     m_SelectedInstanceIDs:
     - m_Data: -1298
     m_LastClickedInstanceID: -1298
+=======
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -911,7 +950,11 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
+<<<<<<< HEAD
   m_DirectoriesAreaWidth: 50
+=======
+  m_DirectoriesAreaWidth: 103
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1417,10 +1460,10 @@ MonoBehaviour:
       displayed: 0
       id: Scene View/Particles
       index: 7
-      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":25.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: 0, y: 25}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       layout: 4
@@ -1669,10 +1712,10 @@ MonoBehaviour:
       displayed: 1
       id: Overlays/OverlayMenu
       index: 1
-      contents: '{"m_Layout":1,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      contents: '{"m_Layout":1,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":25.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: 0, y: 25}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       layout: 1
@@ -1749,9 +1792,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 30.838593, y: -15.022426, z: -0.7423091}
     speed: 2
     m_Value: {x: 30.838593, y: -15.022426, z: -0.7423091}
+=======
+    m_Target: {x: -16.689497, y: -11.98965, z: 19.561886}
+    speed: 2
+    m_Value: {x: -16.689497, y: -11.98965, z: 19.561886}
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1797,6 +1846,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: 0.0030998818, y: -0.9546673, z: 0.010031728, w: 0.29752305}
     speed: 2
     m_Value: {x: 0.003099851, y: -0.9546579, z: 0.010031628, w: 0.2975201}
@@ -1804,6 +1854,15 @@ MonoBehaviour:
     m_Target: 3.1032817
     speed: 2
     m_Value: 3.1032817
+=======
+    m_Target: {x: 0.0009834293, y: -0.74746984, z: -0.0011323659, w: -0.6643279}
+    speed: 2
+    m_Value: {x: 0.0009834071, y: -0.747453, z: -0.0011323404, w: -0.66431296}
+  m_Size:
+    m_Target: 9.313968
+    speed: 2
+    m_Value: 9.313968
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1883,9 +1942,112 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: -1298
       m_ExpandedIDs:
+<<<<<<< HEAD
       - m_Data: -1346
       - m_Data: -1298
+=======
+      - m_Data: -69588
+      - m_Data: -69196
+      - m_Data: -68576
+      - m_Data: -68486
+      - m_Data: -68380
+      - m_Data: -68346
+      - m_Data: -67356
+      - m_Data: -66808
+      - m_Data: -66366
+      - m_Data: -65136
+      - m_Data: -63410
+      - m_Data: -63018
+      - m_Data: -62398
+      - m_Data: -62306
+      - m_Data: -62202
+      - m_Data: -62168
+      - m_Data: -61380
+      - m_Data: -60962
+      - m_Data: -58742
+      - m_Data: -58350
+      - m_Data: -57670
+      - m_Data: -57584
+      - m_Data: -57486
+      - m_Data: -57458
+      - m_Data: -56866
+      - m_Data: -56584
+      - m_Data: -56168
+      - m_Data: -55886
+      - m_Data: -55086
+      - m_Data: -54084
+      - m_Data: -51858
+      - m_Data: -49600
+      - m_Data: -49208
+      - m_Data: -48588
+      - m_Data: -48498
+      - m_Data: -48406
+      - m_Data: -48302
+      - m_Data: -48268
+      - m_Data: -47594
+      - m_Data: -46538
+      - m_Data: -45942
+      - m_Data: -44866
+      - m_Data: -42196
+      - m_Data: -41804
+      - m_Data: -41118
+      - m_Data: -41028
+      - m_Data: -40936
+      - m_Data: -40832
+      - m_Data: -40798
+      - m_Data: -40164
+      - m_Data: -39810
+      - m_Data: -39348
+      - m_Data: -38888
+      - m_Data: -35906
+      - m_Data: -35530
+      - m_Data: -34968
+      - m_Data: -34544
+      - m_Data: -29442
+      - m_Data: -29050
+      - m_Data: -28370
+      - m_Data: -28286
+      - m_Data: -28200
+      - m_Data: -28102
+      - m_Data: -28074
+      - m_Data: -27210
+      - m_Data: -26928
+      - m_Data: -26646
+      - m_Data: -12270
+      - m_Data: -11832
+      - m_Data: -2892
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       - m_Data: -1296
+      - m_Data: 49186
+      - m_Data: 50486
+      - m_Data: 50902
+      - m_Data: 50988
+      - m_Data: 67064
+      - m_Data: 67124
+      - m_Data: 70238
+      - m_Data: 80370
+      - m_Data: 80862
+      - m_Data: 80958
+      - m_Data: 81774
+      - m_Data: 82110
+      - m_Data: 82182
+      - m_Data: 83412
+      - m_Data: 84270
+      - m_Data: 84696
+      - m_Data: 84782
+      - m_Data: 85484
+      - m_Data: 89932
+      - m_Data: 95758
+      - m_Data: 102928
+      - m_Data: 103428
+      - m_Data: 103518
+      - m_Data: 104974
+      - m_Data: 105310
+      - m_Data: 106070
+      - m_Data: 110262
+      - m_Data: 110916
+      - m_Data: 111764
+      - m_Data: 112812
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

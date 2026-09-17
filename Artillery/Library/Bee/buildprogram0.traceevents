@@ -1,6 +1,7 @@
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
 { "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+<<<<<<< HEAD
 { "pid": 35942, "tid": 1, "ts": 1789135026393980, "dur": 414615, "ph": "X", "name": "BuildProgram", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1789135026394682, "dur": 52447, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1789135026706040, "dur": 2900, "ph": "X", "name": "OutputData.Write", "args": {} },
@@ -8,3 +9,17 @@
 { "pid": 35942, "tid": 1, "ts": 1789135026711164, "dur": 52807, "ph": "X", "name": "JsonToString", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1789135026813757, "dur": 842, "ph": "X", "name": "", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1789135026813437, "dur": 1327, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+=======
+{ "pid": 35942, "tid": 1, "ts": 1789672185913915, "dur": 177930, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672185914593, "dur": 28208, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672185948114, "dur": 115159, "ph": "X", "name": "RunBuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672185948525, "dur": 100469, "ph": "X", "name": "PlayerBuildProgramBase.SetupPlayerBuild", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672185948947, "dur": 34697, "ph": "X", "name": "SetupDataFiles", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672185983919, "dur": 378, "ph": "X", "name": "SetupCopyPlugins", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672185985550, "dur": 62180, "ph": "X", "name": "SetupUnityLinker", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672186068440, "dur": 4228, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672186072671, "dur": 19161, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672186073573, "dur": 13342, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672186096060, "dur": 843, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1789672186095789, "dur": 1269, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+>>>>>>> 1f32d2d6 (Practica Modulo 18)

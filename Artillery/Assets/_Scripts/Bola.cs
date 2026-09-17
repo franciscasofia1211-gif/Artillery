@@ -2,15 +2,24 @@ using UnityEngine;
 
 public class Bola : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public GameObject ParticulaExplosion;
 
-    // Update is called once per frame
-    void Update()
+    public void Explotar()
     {
-        
+        GameObject particulas = Instantiate(ParticulaExplosion, transform.position, Quaternion.identity) as GameObject;
+        Canon.Bloqueado = false;
+        SeguirCamara.objetivo = null;
+        Destroy(this.gameObject);
+    }
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.collider.tag == "Suelo")
+        {
+            Invoke("Explotar", .1f);
+        }
+        if (collision.collider.tag == "Obstaculo")
+        {
+            Invoke("Explotar",.1f);
+        }
     }
 }

@@ -89808,7 +89808,11 @@
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 4056934,
+<<<<<<< HEAD
       "PayloadLength": 42165,
+=======
+      "PayloadLength": 42357,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "InputFlags": [],
@@ -89824,7 +89828,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4099186,
+=======
+      "PayloadOffset": 4099378,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -90157,9 +90165,18 @@
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
         "Assets/TutorialInfo/Scripts/Readme.cs",
+        "Assets/_Input/CanonControls.cs",
         "Assets/_Scripts/AdministradorJuego.cs",
         "Assets/_Scripts/Bola.cs",
         "Assets/_Scripts/Canon.cs",
+<<<<<<< HEAD
+=======
+        "Assets/_Scripts/Objetivo.cs",
+        "Assets/_Scripts/Obstaculo.cs",
+        "Assets/_Scripts/Rastro.cs",
+        "Assets/_Scripts/SeguirCamara.cs",
+        "Assets/_Scripts/SiguienteNivel.cs",
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
         "C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll",
         "C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll",
@@ -90487,6 +90504,15 @@
         0,
         0,
         0,
+<<<<<<< HEAD
+=======
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
         8
       ],
       "Outputs": [
@@ -90958,7 +90984,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4099282,
+=======
+      "PayloadOffset": 4099474,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 16500,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -91560,7 +91590,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4115895,
+=======
+      "PayloadOffset": 4116087,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 51,
       "PayloadDebugContentSnippet": "C:\\Users\\franc\\OneDrive\\Deskto",
       "Inputs": [],
@@ -91577,7 +91611,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp",
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4116039,
+=======
+      "PayloadOffset": 4116231,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 44763,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -91594,7 +91632,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp2",
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4160896,
+=======
+      "PayloadOffset": 4161088,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -92379,7 +92421,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4160999,
+=======
+      "PayloadOffset": 4161191,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 17532,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -93017,7 +93063,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4747638433968585886.rsp",
       "DisplayName": "Writing 4747638433968585886.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4178620,
+=======
+      "PayloadOffset": 4178812,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 51842,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -93899,7 +93949,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/13686715218353603589.rsp",
       "DisplayName": "Writing 13686715218353603589.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4230552,
+=======
+      "PayloadOffset": 4230744,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36814,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -96058,7 +96112,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/12812556936427222528.rsp",
       "DisplayName": "Writing 12812556936427222528.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4267456,
+=======
+      "PayloadOffset": 4267648,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38283,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -98485,7 +98543,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/16285879237017002407.rsp",
       "DisplayName": "Writing 16285879237017002407.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4305829,
+=======
+      "PayloadOffset": 4306021,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38310,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -100915,7 +100977,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/14832617886295879631.rsp",
       "DisplayName": "Writing 14832617886295879631.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4344229,
+=======
+      "PayloadOffset": 4344421,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36838,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -103345,7 +103411,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/1418726328684876121.rsp",
       "DisplayName": "Writing 1418726328684876121.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4381156,
+=======
+      "PayloadOffset": 4381348,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 35301,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -105776,7 +105846,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/17346584914308636752.rsp",
       "DisplayName": "Writing 17346584914308636752.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4416547,
+=======
+      "PayloadOffset": 4416739,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 37283,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -108206,7 +108280,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/7606483801609891643.rsp",
       "DisplayName": "Writing 7606483801609891643.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4453919,
+=======
+      "PayloadOffset": 4454111,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36827,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -110636,7 +110714,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/5916180605834378387.rsp",
       "DisplayName": "Writing 5916180605834378387.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4490835,
+=======
+      "PayloadOffset": 4491027,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36811,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -113065,7 +113147,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10142702499866438521.rsp",
       "DisplayName": "Writing 10142702499866438521.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4527736,
+=======
+      "PayloadOffset": 4527928,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36825,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -115495,7 +115581,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/13909235412005675431.rsp",
       "DisplayName": "Writing 13909235412005675431.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4564651,
+=======
+      "PayloadOffset": 4564843,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 35185,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -117925,7 +118015,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/9111662996337956171.rsp",
       "DisplayName": "Writing 9111662996337956171.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4599925,
+=======
+      "PayloadOffset": 4600117,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36902,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -120355,7 +120449,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/9870516708743257357.rsp",
       "DisplayName": "Writing 9870516708743257357.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4636916,
+=======
+      "PayloadOffset": 4637108,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36834,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -122785,7 +122883,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/18218310762646611085.rsp",
       "DisplayName": "Writing 18218310762646611085.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4673840,
+=======
+      "PayloadOffset": 4674032,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36846,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -125215,7 +125317,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/5803490648119114145.rsp",
       "DisplayName": "Writing 5803490648119114145.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4710775,
+=======
+      "PayloadOffset": 4710967,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36833,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -127645,7 +127751,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/1488387367365330867.rsp",
       "DisplayName": "Writing 1488387367365330867.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4747697,
+=======
+      "PayloadOffset": 4747889,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38304,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -130075,7 +130185,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/15394042617203071315.rsp",
       "DisplayName": "Writing 15394042617203071315.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4786091,
+=======
+      "PayloadOffset": 4786283,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38288,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -132505,7 +132619,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/9675442845102135732.rsp",
       "DisplayName": "Writing 9675442845102135732.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4824468,
+=======
+      "PayloadOffset": 4824660,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38294,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -134935,7 +135053,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/8899139255040401798.rsp",
       "DisplayName": "Writing 8899139255040401798.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4862851,
+=======
+      "PayloadOffset": 4863043,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36833,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -137365,7 +137487,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/14402696373757716438.rsp",
       "DisplayName": "Writing 14402696373757716438.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4899774,
+=======
+      "PayloadOffset": 4899966,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38461,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -139801,7 +139927,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/12248871281822510316.rsp",
       "DisplayName": "Writing 12248871281822510316.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4938325,
+=======
+      "PayloadOffset": 4938517,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38338,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -142235,7 +142365,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/3938377011463375229.rsp",
       "DisplayName": "Writing 3938377011463375229.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 4976752,
+=======
+      "PayloadOffset": 4976944,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38356,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -144668,7 +144802,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2157608619508796868.rsp",
       "DisplayName": "Writing 2157608619508796868.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5015197,
+=======
+      "PayloadOffset": 5015389,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36981,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -147103,7 +147241,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/8863518860715653438.rsp",
       "DisplayName": "Writing 8863518860715653438.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5052267,
+=======
+      "PayloadOffset": 5052459,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36779,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -149536,7 +149678,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/3064155424177982801.rsp",
       "DisplayName": "Writing 3064155424177982801.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5089135,
+=======
+      "PayloadOffset": 5089327,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36876,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -151969,7 +152115,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/11294775302662683298.rsp",
       "DisplayName": "Writing 11294775302662683298.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5126101,
+=======
+      "PayloadOffset": 5126293,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 35315,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -154402,7 +154552,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/14814235663552238418.rsp",
       "DisplayName": "Writing 14814235663552238418.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5161506,
+=======
+      "PayloadOffset": 5161698,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38350,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -156834,7 +156988,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10831531723267835799.rsp",
       "DisplayName": "Writing 10831531723267835799.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5199946,
+=======
+      "PayloadOffset": 5200138,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38371,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -159267,7 +159425,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/12900333509587573630.rsp",
       "DisplayName": "Writing 12900333509587573630.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5238407,
+=======
+      "PayloadOffset": 5238599,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36809,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -161700,7 +161862,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/6413563044966999158.rsp",
       "DisplayName": "Writing 6413563044966999158.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5275305,
+=======
+      "PayloadOffset": 5275497,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38364,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -164133,7 +164299,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/5546506141355401238.rsp",
       "DisplayName": "Writing 5546506141355401238.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5313758,
+=======
+      "PayloadOffset": 5313950,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36916,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -166566,7 +166736,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4772145154433932943.rsp",
       "DisplayName": "Writing 4772145154433932943.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5350763,
+=======
+      "PayloadOffset": 5350955,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38369,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -168999,7 +169173,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10571807241835812913.rsp",
       "DisplayName": "Writing 10571807241835812913.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5389222,
+=======
+      "PayloadOffset": 5389414,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 37031,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -171432,7 +171610,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2400031028012695012.rsp",
       "DisplayName": "Writing 2400031028012695012.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5426342,
+=======
+      "PayloadOffset": 5426534,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38508,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -173871,7 +174053,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/6262281476893245489.rsp",
       "DisplayName": "Writing 6262281476893245489.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5464939,
+=======
+      "PayloadOffset": 5465131,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38379,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -176309,7 +176495,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4014436084419441659.rsp",
       "DisplayName": "Writing 4014436084419441659.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5503407,
+=======
+      "PayloadOffset": 5503599,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 37126,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -178750,7 +178940,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/1237274906319909237.rsp",
       "DisplayName": "Writing 1237274906319909237.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5540622,
+=======
+      "PayloadOffset": 5540814,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 37018,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -181188,7 +181382,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/3388064732626934676.rsp",
       "DisplayName": "Writing 3388064732626934676.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5577729,
+=======
+      "PayloadOffset": 5577921,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38368,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -183624,7 +183822,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/5249134988916615986.rsp",
       "DisplayName": "Writing 5249134988916615986.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5616186,
+=======
+      "PayloadOffset": 5616378,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 37195,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -186060,7 +186262,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/14566447020836459352.rsp",
       "DisplayName": "Writing 14566447020836459352.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5653471,
+=======
+      "PayloadOffset": 5653663,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38350,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -188496,7 +188702,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/17525389461119239690.rsp",
       "DisplayName": "Writing 17525389461119239690.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5691911,
+=======
+      "PayloadOffset": 5692103,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36914,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -190940,7 +191150,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10397561839769426034.rsp",
       "DisplayName": "Writing 10397561839769426034.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5728915,
+=======
+      "PayloadOffset": 5729107,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36911,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -193384,7 +193598,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10411718816959651794.rsp",
       "DisplayName": "Writing 10411718816959651794.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5765916,
+=======
+      "PayloadOffset": 5766108,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 37080,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -195828,7 +196046,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/15085861467720516389.rsp",
       "DisplayName": "Writing 15085861467720516389.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5803086,
+=======
+      "PayloadOffset": 5803278,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36916,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -198272,7 +198494,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10292501669419677951.rsp",
       "DisplayName": "Writing 10292501669419677951.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5840092,
+=======
+      "PayloadOffset": 5840284,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38426,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -200722,7 +200948,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/9362519405459664194.rsp",
       "DisplayName": "Writing 9362519405459664194.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5878607,
+=======
+      "PayloadOffset": 5878799,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 35388,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -203161,7 +203391,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/15312589170787849123.rsp",
       "DisplayName": "Writing 15312589170787849123.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5914085,
+=======
+      "PayloadOffset": 5914277,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38645,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -205603,7 +205837,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4691676790321305727.rsp",
       "DisplayName": "Writing 4691676790321305727.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5952819,
+=======
+      "PayloadOffset": 5953011,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 36957,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -208042,7 +208280,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/9703144790800738880.rsp",
       "DisplayName": "Writing 9703144790800738880.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 5989865,
+=======
+      "PayloadOffset": 5990057,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38713,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -210492,7 +210734,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10010842633742469623.rsp",
       "DisplayName": "Writing 10010842633742469623.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6028668,
+=======
+      "PayloadOffset": 6028860,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 37610,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -212951,7 +213197,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/1723042715960067801.rsp",
       "DisplayName": "Writing 1723042715960067801.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6066367,
+=======
+      "PayloadOffset": 6066559,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38667,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -215399,7 +215649,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/7759033573704817190.rsp",
       "DisplayName": "Writing 7759033573704817190.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6105123,
+=======
+      "PayloadOffset": 6105315,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38656,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -217847,7 +218101,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/17296387151066238333.rsp",
       "DisplayName": "Writing 17296387151066238333.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6143869,
+=======
+      "PayloadOffset": 6144061,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38382,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -220300,7 +220558,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2897256077774953845.rsp",
       "DisplayName": "Writing 2897256077774953845.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6182340,
+=======
+      "PayloadOffset": 6182532,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 37247,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -222762,7 +223024,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/6841316898876630997.rsp",
       "DisplayName": "Writing 6841316898876630997.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6219676,
+=======
+      "PayloadOffset": 6219868,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38574,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -225221,7 +225487,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2240406767038398906.rsp",
       "DisplayName": "Writing 2240406767038398906.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6258339,
+=======
+      "PayloadOffset": 6258531,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38733,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -227672,7 +227942,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/11820488456832421373.rsp",
       "DisplayName": "Writing 11820488456832421373.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6297162,
+=======
+      "PayloadOffset": 6297354,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 39091,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -230158,7 +230432,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/15183149355271759364.rsp",
       "DisplayName": "Writing 15183149355271759364.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6336343,
+=======
+      "PayloadOffset": 6336535,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 39108,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -232644,7 +232922,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/6947401630772442630.rsp",
       "DisplayName": "Writing 6947401630772442630.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6375540,
+=======
+      "PayloadOffset": 6375732,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 38596,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -235133,7 +235415,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/10678863128556690338.rsp",
       "DisplayName": "Writing 10678863128556690338.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6414226,
+=======
+      "PayloadOffset": 6414418,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 39333,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -237717,7 +238003,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/2781082588993088484.rsp",
       "DisplayName": "Writing 2781082588993088484.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6453648,
+=======
+      "PayloadOffset": 6453840,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 41940,
       "PayloadDebugContentSnippet": "\"unity-ilpp-dee732c997f27e4f68",
       "Inputs": [],
@@ -243076,7 +243366,11 @@
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/6097564273297756792.rsp",
       "DisplayName": "Writing 6097564273297756792.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 6495677,
+=======
+      "PayloadOffset": 6495869,
+>>>>>>> 1f32d2d6 (Practica Modulo 18)
       "PayloadLength": 7539,
       "PayloadDebugContentSnippet": "-a=\"C:\\Users\\franc\\OneDrive\\De",
       "Inputs": [],
